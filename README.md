@@ -28,7 +28,7 @@ MOUSEDOWN: Draw a circle at the current mouseposition or not if the A key is ena
 MOUSEDRAG: Same thing as MOUSEDOWN but this will continuously draw circles where the mouse is.
 
 TEXTBOXES:
-1. Size of the circle to draw. 1-Infinity.
+1. Size of the circle to draw. 0-Infinity.
 2. Red value of the RGBA circle. 0-255.
 3. Green value of the RGBA circle. 0-255.
 4. Blue value of the RGBA circle. 0-255.
