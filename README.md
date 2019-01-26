@@ -2,6 +2,7 @@
 INFORMATION:
 Made in pure HTML and javascript.
 Although this tool isn't pretty, it allows for the user to create Images and Animations from scratch in base64.
+
 TIPS:
 1. Use inspect element to copy the base64 data if you want to use the drawn image(s) elsewhere.
 2. Using the Alpha tool allows for a nice color gradient and/or shading (0.01 works really well).
