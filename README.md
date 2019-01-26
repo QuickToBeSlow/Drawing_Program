@@ -8,6 +8,8 @@ TIPS:
 3. Use the TAB key to go to the textboxes to edit them. You may use your mouse, but this might accidentally draw a circle depending on the circle's size.
 TOOLS:
 
+S: Saves current Image to the current frame.
+
 A: Enable/Disable drawing loop (good for touchpad users).
 
 L: Write ImageData over current frame.
