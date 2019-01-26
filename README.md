@@ -1,4 +1,4 @@
-# Drawing_Program
+# Drawing Program
 INFORMATION:
 Made in pure HTML and javascript.
 Although this tool isn't pretty, it allows for the user to create Images and Animations from scratch in base64.
