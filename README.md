@@ -10,6 +10,10 @@ TIPS:
 
 TOOLS:
 
+/: Copies a frame.
+
+Z: Pastes a frame.
+
 S: Saves current Image to the current frame.
 
 A: Enable/Disable drawing loop (good for touchpad users).
@@ -18,7 +22,7 @@ L: Write ImageData over current frame.
 
 C: Set the image to a transparent background.
 
-<- and -> keys: Switch between frames to save/override ImageData.
+<- and -> keys: Switch between frames.
 
 MOUSEDOWN: Draw a circle at the current mouseposition or not if the A key is enabled.
 MOUSEDRAG: Same thing as MOUSEDOWN but this will continuously draw circles where the mouse is.
